@@ -82,7 +82,8 @@ The web application will offer the following features:
 
 ###### 5.1 Setting up Oracle Server
 
-<<Explain the steps to install and configure ORACLE Server for the assignment.>>
+- [x] Create a spring boot project using https://start.spring.io/ for student service,course service and eureka server.
+- [x] Go to server in the debug window in the bottom of the eclipse
 
 ###### 5.2 Configuring JAVA and Oracle Integration
 
